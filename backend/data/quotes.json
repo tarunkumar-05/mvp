@@ -1,0 +1,554 @@
+[
+  {
+    "id": "RPQ-2026-0101",
+    "sender": "electricals@apexinfra.com",
+    "subject": "Requirement list for sub-station project",
+    "received_at": "2026-10-25T10:21:22Z",
+    "status": "DRAFT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "500m 4c 16sqmm cable copper armoured polycab",
+        "matched_sku": "CAB-CU-4C-16",
+        "matched_name": "Polycab 4C 16 sq.mm Copper Armoured Cable",
+        "quantity": 500,
+        "unit": "meter",
+        "unit_price": 680.0,
+        "total_price": 340000.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "2 nos 100A 4 pole mccb L&T make",
+        "matched_sku": "MCCB-4P-100A",
+        "matched_name": "L&T 100A 4 Pole MCCB 25kA",
+        "quantity": 2,
+        "unit": "piece",
+        "unit_price": 6800.0,
+        "total_price": 13600.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_03",
+        "raw_query": "10 nos 63A three pole mcb schneider",
+        "matched_sku": "MCB-TP-63A-10K",
+        "matched_name": "Schneider Acti9 63A Triple Pole MCB 10kA",
+        "quantity": 10,
+        "unit": "piece",
+        "unit_price": 2150.0,
+        "total_price": 21500.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 375100.0,
+    "tax": 67518.0,
+    "grand_total": 442618.0
+  },
+  {
+    "id": "RPQ-2026-0102",
+    "sender": "purchase@buildcorp.in",
+    "subject": "Urgent quotation required - Site Phase 2",
+    "received_at": "2026-10-25T10:21:30Z",
+    "status": "DRAFT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "250 meters 4 core 6 sqmm copper armoured cable polycab make",
+        "matched_sku": "CAB-CU-4C-06",
+        "matched_name": "Polycab 4C 6 sq.mm Copper Armoured Cable",
+        "quantity": 250,
+        "unit": "meter",
+        "unit_price": 285.0,
+        "total_price": 71250.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "4 pieces schneider 32A 3 pole breaker",
+        "matched_sku": "MCB-TP-32A-10K",
+        "matched_name": "Schneider Acti9 32A Triple Pole MCB 10kA",
+        "quantity": 4,
+        "unit": "piece",
+        "unit_price": 1420.0,
+        "total_price": 5680.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 76930.0,
+    "tax": 13847.4,
+    "grand_total": 90777.4
+  },
+  {
+    "id": "RPQ-2026-0103",
+    "sender": "contact@srivinayaka.co",
+    "subject": "Pricing inquiry",
+    "received_at": "2026-10-25T10:25:22Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "10 bundles 25mm heavy duty pvc conduit pipes",
+        "matched_sku": "CON-PVC-25MM",
+        "matched_name": "Precision 25mm Heavy Duty PVC Conduit Pipe",
+        "quantity": 10,
+        "unit": "bundle",
+        "unit_price": 850.0,
+        "total_price": 8500.0,
+        "confidence_score": 92.5,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "100m 4 core 10sqmm copper cable",
+        "matched_sku": "CAB-CU-4C-10",
+        "matched_name": "Polycab 4C 10 sq.mm Copper Armoured Cable",
+        "quantity": 100,
+        "unit": "meter",
+        "unit_price": 445.0,
+        "total_price": 44500.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 53000.0,
+    "tax": 9540.0,
+    "grand_total": 62540.0
+  },
+  {
+    "id": "RPQ-2026-0104",
+    "sender": "purchase@buildcorp.in",
+    "subject": "Urgent quotation required - Site Phase 2",
+    "received_at": "2026-10-25T10:25:47Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "5 units of some industrial item for our new site, specs not finalized. Also maybe some fittings",
+        "matched_sku": "CAB-CU-4C-25",
+        "matched_name": "Polycab 4C 25 sq.mm Copper Armoured Cable",
+        "quantity": 5,
+        "unit": "meter",
+        "unit_price": 1050.0,
+        "total_price": 5250.0,
+        "confidence_score": 31.1,
+        "needs_review": true
+      }
+    ],
+    "subtotal": 5250.0,
+    "tax": 945.0,
+    "grand_total": 6195.0
+  },
+  {
+    "id": "RPQ-2026-0105",
+    "sender": "purchase@buildcorp.in",
+    "subject": "Urgent quotation required - Site Phase 2",
+    "received_at": "2026-10-25T10:56:39Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "250 meters 4 core 6 sqmm copper armoured cable polycab make",
+        "matched_sku": "CAB-CU-4C-06",
+        "matched_name": "Polycab 4C 6 sq.mm Copper Armoured Cable",
+        "quantity": 250,
+        "unit": "meter",
+        "unit_price": 285.0,
+        "total_price": 71250.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "4 pieces schneider 32A 3 pole breaker",
+        "matched_sku": "MCB-TP-32A-10K",
+        "matched_name": "Schneider Acti9 32A Triple Pole MCB 10kA",
+        "quantity": 4,
+        "unit": "piece",
+        "unit_price": 1420.0,
+        "total_price": 5680.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 76930.0,
+    "tax": 13847.4,
+    "grand_total": 90777.4
+  },
+  {
+    "id": "RPQ-2026-0106",
+    "sender": "contact@srivinayaka.co",
+    "subject": "Pricing inquiry",
+    "received_at": "2026-10-25T11:08:38Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "10 bundles 25mm heavy duty pvc conduit pipes",
+        "matched_sku": "CON-PVC-25MM",
+        "matched_name": "Precision 25mm Heavy Duty PVC Conduit Pipe",
+        "quantity": 10,
+        "unit": "bundle",
+        "unit_price": 850.0,
+        "total_price": 8500.0,
+        "confidence_score": 92.5,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "100m 4 core 10sqmm copper cable",
+        "matched_sku": "CAB-CU-4C-10",
+        "matched_name": "Polycab 4C 10 sq.mm Copper Armoured Cable",
+        "quantity": 100,
+        "unit": "meter",
+        "unit_price": 445.0,
+        "total_price": 44500.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 53000.0,
+    "tax": 9540.0,
+    "grand_total": 62540.0
+  },
+  {
+    "id": "RPQ-2026-0107",
+    "sender": "purchase@buildcorp.in",
+    "subject": "Urgent quotation required - Site Phase 2",
+    "received_at": "2026-10-25T11:21:32Z",
+    "status": "DRAFT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "250 meters 4 core 6 sqmm copper armoured cable polycab make",
+        "matched_sku": "CAB-CU-4C-06",
+        "matched_name": "Polycab 4C 6 sq.mm Copper Armoured Cable",
+        "quantity": 250,
+        "unit": "meter",
+        "unit_price": 285.0,
+        "total_price": 71250.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "4 pieces schneider 32A 3 pole breaker",
+        "matched_sku": "MCB-TP-32A-10K",
+        "matched_name": "Schneider Acti9 32A Triple Pole MCB 10kA",
+        "quantity": 4,
+        "unit": "piece",
+        "unit_price": 1420.0,
+        "total_price": 5680.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 76930.0,
+    "tax": 13847.4,
+    "grand_total": 90777.4
+  },
+  {
+    "id": "RPQ-2026-0108",
+    "sender": "electricals@apexinfra.com",
+    "subject": "Requirement list for sub-station project",
+    "received_at": "2026-10-25T11:21:41Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "500m 4c 16sqmm cable copper armoured polycab",
+        "matched_sku": "CAB-CU-4C-16",
+        "matched_name": "Polycab 4C 16 sq.mm Copper Armoured Cable",
+        "quantity": 500,
+        "unit": "meter",
+        "unit_price": 680.0,
+        "total_price": 340000.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "2 nos 100A 4 pole mccb L&T make",
+        "matched_sku": "MCCB-4P-100A",
+        "matched_name": "L&T 100A 4 Pole MCCB 25kA",
+        "quantity": 2,
+        "unit": "piece",
+        "unit_price": 6800.0,
+        "total_price": 13600.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_03",
+        "raw_query": "10 nos 63A three pole mcb schneider",
+        "matched_sku": "MCB-TP-63A-10K",
+        "matched_name": "Schneider Acti9 63A Triple Pole MCB 10kA",
+        "quantity": 10,
+        "unit": "piece",
+        "unit_price": 2150.0,
+        "total_price": 21500.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 375100.0,
+    "tax": 67518.0,
+    "grand_total": 442618.0
+  },
+  {
+    "id": "RPQ-2026-0109",
+    "sender": "rallapallitarunkumar25@gmail.com",
+    "subject": "Pricing inquiry",
+    "received_at": "2026-10-25T11:49:54Z",
+    "status": "DRAFT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "10 bundles 25mm heavy duty pvc conduit pipes",
+        "matched_sku": "CON-PVC-25MM",
+        "matched_name": "Precision 25mm Heavy Duty PVC Conduit Pipe",
+        "quantity": 10,
+        "unit": "bundle",
+        "unit_price": 850.0,
+        "total_price": 8500.0,
+        "confidence_score": 92.5,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "100m 4 core 10sqmm copper cable",
+        "matched_sku": "CAB-CU-4C-10",
+        "matched_name": "Polycab 4C 10 sq.mm Copper Armoured Cable",
+        "quantity": 100,
+        "unit": "meter",
+        "unit_price": 445.0,
+        "total_price": 44500.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 53000.0,
+    "tax": 9540.0,
+    "grand_total": 62540.0
+  },
+  {
+    "id": "RPQ-2026-0110",
+    "sender": "contact@srivinayaka.co",
+    "subject": "Pricing inquiry",
+    "received_at": "2026-10-25T12:45:43Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "10 bundles 25mm heavy duty pvc conduit pipes",
+        "matched_sku": "CON-PVC-25MM",
+        "matched_name": "Precision 25mm Heavy Duty PVC Conduit Pipe",
+        "quantity": 10,
+        "unit": "bundle",
+        "unit_price": 850.0,
+        "total_price": 8500.0,
+        "confidence_score": 92.5,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "100m 4 core 10sqmm copper cable",
+        "matched_sku": "CAB-CU-4C-10",
+        "matched_name": "Polycab 4C 10 sq.mm Copper Armoured Cable",
+        "quantity": 100,
+        "unit": "meter",
+        "unit_price": 445.0,
+        "total_price": 44500.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 53000.0,
+    "tax": 9540.0,
+    "grand_total": 62540.0
+  },
+  {
+    "id": "RPQ-2026-0111",
+    "sender": "electricals@apexinfra.com",
+    "subject": "Requirement list for sub-station project",
+    "received_at": "2026-10-25T16:03:50Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "500m 4c 16sqmm cable copper armoured polycab",
+        "matched_sku": "CAB-CU-4C-16",
+        "matched_name": "Polycab 4C 16 sq.mm Copper Armoured Cable",
+        "quantity": 500,
+        "unit": "meter",
+        "unit_price": 680.0,
+        "total_price": 340000.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "2 nos 100A 4 pole mccb L&T make",
+        "matched_sku": "MCCB-4P-100A",
+        "matched_name": "L&T 100A 4 Pole MCCB 25kA",
+        "quantity": 2,
+        "unit": "piece",
+        "unit_price": 6800.0,
+        "total_price": 13600.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_03",
+        "raw_query": "10 nos 63A three pole mcb schneider",
+        "matched_sku": "MCB-TP-63A-10K",
+        "matched_name": "Schneider Acti9 63A Triple Pole MCB 10kA",
+        "quantity": 10,
+        "unit": "piece",
+        "unit_price": 2150.0,
+        "total_price": 21500.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 375100.0,
+    "tax": 67518.0,
+    "grand_total": 442618.0
+  },
+  {
+    "id": "RPQ-2026-0112",
+    "sender": "electricals@apexinfra.com",
+    "subject": "Requirement list for sub-station project",
+    "received_at": "2026-10-26T12:20:25Z",
+    "status": "DRAFT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "500m 4c 16sqmm cable copper armoured polycab",
+        "matched_sku": "CAB-CU-4C-16",
+        "matched_name": "Polycab 4C 16 sq.mm Copper Armoured Cable",
+        "quantity": 500,
+        "unit": "meter",
+        "unit_price": 680.0,
+        "total_price": 340000.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "2 nos 100A 4 pole mccb L&T make",
+        "matched_sku": "MCCB-4P-100A",
+        "matched_name": "L&T 100A 4 Pole MCCB 25kA",
+        "quantity": 2,
+        "unit": "piece",
+        "unit_price": 6800.0,
+        "total_price": 13600.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_03",
+        "raw_query": "10 nos 63A three pole mcb schneider",
+        "matched_sku": "MCB-TP-63A-10K",
+        "matched_name": "Schneider Acti9 63A Triple Pole MCB 10kA",
+        "quantity": 10,
+        "unit": "piece",
+        "unit_price": 2150.0,
+        "total_price": 21500.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 375100.0,
+    "tax": 67518.0,
+    "grand_total": 442618.0
+  },
+  {
+    "id": "RPQ-2026-0113",
+    "sender": "priya.sharma@buildwell-infra.in",
+    "subject": "RFQ - LT panels and cabling for Block C",
+    "received_at": "2026-10-26T13:28:48Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "120 meters of 4 sq mm FR copper cable",
+        "matched_sku": "CAB-CU-4C-06",
+        "matched_name": "Polycab 4C 6 sq.mm Copper Armoured Cable",
+        "quantity": 120,
+        "unit": "meter",
+        "unit_price": 285.0,
+        "total_price": 34200.0,
+        "confidence_score": 94.8,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "6 pieces of 63A MCB",
+        "matched_sku": "MCB-TP-63A-10K",
+        "matched_name": "Schneider Acti9 63A Triple Pole MCB 10kA",
+        "quantity": 6,
+        "unit": "piece",
+        "unit_price": 2150.0,
+        "total_price": 12900.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_03",
+        "raw_query": "40 pieces 25mm PVC conduit\n- 250 self drilling screws\n\nDelivery to Pune within 10 days",
+        "matched_sku": "CON-PVC-25MM",
+        "matched_name": "Precision 25mm Heavy Duty PVC Conduit Pipe",
+        "quantity": 40,
+        "unit": "bundle",
+        "unit_price": 850.0,
+        "total_price": 34000.0,
+        "confidence_score": 48.7,
+        "needs_review": true
+      }
+    ],
+    "subtotal": 81100.0,
+    "tax": 14598.0,
+    "grand_total": 95698.0
+  },
+  {
+    "id": "RPQ-2026-0114",
+    "sender": "evaluator@rapqo-demo.test",
+    "subject": "RFQ - final smoke test",
+    "received_at": "2026-10-26T13:39:46Z",
+    "status": "SENT",
+    "items": [
+      {
+        "id": "line_01",
+        "raw_query": "30 meters of 4 sq mm copper cable",
+        "matched_sku": "CAB-CU-4C-06",
+        "matched_name": "Polycab 4C 6 sq.mm Copper Armoured Cable",
+        "quantity": 30,
+        "unit": "meter",
+        "unit_price": 285.0,
+        "total_price": 8550.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      },
+      {
+        "id": "line_02",
+        "raw_query": "4 pieces of 63A MCB",
+        "matched_sku": "MCB-TP-63A-10K",
+        "matched_name": "Schneider Acti9 63A Triple Pole MCB 10kA",
+        "quantity": 4,
+        "unit": "piece",
+        "unit_price": 2150.0,
+        "total_price": 8600.0,
+        "confidence_score": 100.0,
+        "needs_review": false
+      }
+    ],
+    "subtotal": 17150.0,
+    "tax": 3087.0,
+    "grand_total": 20237.0
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "sku": "CAB-CU-4C-06",
+    "name": "Polycab 4C 6 sq.mm Copper Armoured Cable",
+    "category": "Cables",
+    "spec": "4 Core, 6 sq.mm, Copper",
+    "unit": "meter",
+    "unit_price": 285.0,
+    "stock": 1200
+  },
+  {
+    "sku": "CAB-CU-4C-10",
+    "name": "Polycab 4C 10 sq.mm Copper Armoured Cable",
+    "category": "Cables",
+    "spec": "4 Core, 10 sq.mm, Copper",
+    "unit": "meter",
+    "unit_price": 445.0,
+    "stock": 850
+  },
+  {
+    "sku": "CAB-CU-4C-16",
+    "name": "Polycab 4C 16 sq.mm Copper Armoured Cable",
+    "category": "Cables",
+    "spec": "4 Core, 16 sq.mm, Copper",
+    "unit": "meter",
+    "unit_price": 680.0,
+    "stock": 500
+  },
+  {
+    "sku": "CAB-AL-4C-25",
+    "name": "Havells 4C 25 sq.mm Aluminium Armoured Cable",
+    "category": "Cables",
+    "spec": "4 Core, 25 sq.mm, Aluminium",
+    "unit": "meter",
+    "unit_price": 310.0,
+    "stock": 900
+  },
+  {
+    "sku": "MCB-SP-16A-10K",
+    "name": "Schneider Acti9 16A Single Pole MCB 10kA",
+    "category": "Switchgear",
+    "spec": "1 Pole, 16A, C-Curve",
+    "unit": "piece",
+    "unit_price": 320.0,
+    "stock": 400
+  },
+  {
+    "sku": "MCB-TP-32A-10K",
+    "name": "Schneider Acti9 32A Triple Pole MCB 10kA",
+    "category": "Switchgear",
+    "spec": "3 Pole, 32A, C-Curve",
+    "unit": "piece",
+    "unit_price": 1420.0,
+    "stock": 150
+  },
+  {
+    "sku": "MCB-TP-63A-10K",
+    "name": "Schneider Acti9 63A Triple Pole MCB 10kA",
+    "category": "Switchgear",
+    "spec": "3 Pole, 63A, C-Curve",
+    "unit": "piece",
+    "unit_price": 2150.0,
+    "stock": 90
+  },
+  {
+    "sku": "MCCB-4P-100A",
+    "name": "L&T 100A 4 Pole MCCB 25kA",
+    "category": "Switchgear",
+    "spec": "4 Pole, 100A, 25kA",
+    "unit": "piece",
+    "unit_price": 6800.0,
+    "stock": 45
+  },
+  {
+    "sku": "MCCB-4P-250A",
+    "name": "L&T 250A 4 Pole MCCB 36kA",
+    "category": "Switchgear",
+    "spec": "4 Pole, 250A, 36kA",
+    "unit": "piece",
+    "unit_price": 14500.0,
+    "stock": 20
+  },
+  {
+    "sku": "CON-PVC-20MM",
+    "name": "Precision 20mm Heavy Duty PVC Conduit Pipe",
+    "category": "Conduits",
+    "spec": "20mm, Heavy Duty",
+    "unit": "bundle",
+    "unit_price": 620.0,
+    "stock": 500
+  },
+  {
+    "sku": "CON-PVC-25MM",
+    "name": "Precision 25mm Heavy Duty PVC Conduit Pipe",
+    "category": "Conduits",
+    "spec": "25mm, Heavy Duty",
+    "unit": "bundle",
+    "unit_price": 850.0,
+    "stock": 300
+  },
+  {
+    "sku": "CAB-CU-4C-25",
+    "name": "Polycab 4C 25 sq.mm Copper Armoured Cable",
+    "category": "Cables",
+    "spec": "4 Core, 25 sq.mm, Copper",
+    "unit": "meter",
+    "unit_price": 1050.0,
+    "stock": 320
+  },
+  {
+    "sku": "CAB-CU-3C-06",
+    "name": "Polycab 3C 6 sq.mm Copper Armoured Cable",
+    "category": "Cables",
+    "spec": "3 Core, 6 sq.mm, Copper",
+    "unit": "meter",
+    "unit_price": 215.0,
+    "stock": 950
+  },
+  {
+    "sku": "CAB-CU-1C-16",
+    "name": "Polycab 1C 16 sq.mm Copper Flexible Cable",
+    "category": "Cables",
+    "spec": "1 Core, 16 sq.mm, Copper Flexible",
+    "unit": "meter",
+    "unit_price": 165.0,
+    "stock": 1500
+  },
+  {
+    "sku": "CAB-AL-4C-50",
+    "name": "Havells 4C 50 sq.mm Aluminium Armoured Cable",
+    "category": "Cables",
+    "spec": "4 Core, 50 sq.mm, Aluminium",
+    "unit": "meter",
+    "unit_price": 520.0,
+    "stock": 400
+  },
+  {
+    "sku": "CAB-CAT6-LAN",
+    "name": "Finolex Cat6 UTP LAN Cable",
+    "category": "Cables",
+    "spec": "Cat6, 23 AWG, UTP, PVC Sheath",
+    "unit": "meter",
+    "unit_price": 28.0,
+    "stock": 3000
+  },
+  {
+    "sku": "MCB-SP-32A-10K",
+    "name": "Schneider Acti9 32A Single Pole MCB 10kA",
+    "category": "Switchgear",
+    "spec": "1 Pole, 32A, C-Curve",
+    "unit": "piece",
+    "unit_price": 380.0,
+    "stock": 320
+  },
+  {
+    "sku": "MCB-DP-40A-10K",
+    "name": "Schneider Acti9 40A Double Pole MCB 10kA",
+    "category": "Switchgear",
+    "spec": "2 Pole, 40A, C-Curve",
+    "unit": "piece",
+    "unit_price": 890.0,
+    "stock": 180
+  },
+  {
+    "sku": "RCCB-4P-63A-30MA",
+    "name": "Schneider Acti9 63A 4 Pole RCCB 30mA",
+    "category": "Switchgear",
+    "spec": "4 Pole, 63A, 30mA Sensitivity",
+    "unit": "piece",
+    "unit_price": 4650.0,
+    "stock": 70
+  },
+  {
+    "sku": "MCCB-3P-160A",
+    "name": "L&T 160A 3 Pole MCCB 25kA",
+    "category": "Switchgear",
+    "spec": "3 Pole, 160A, 25kA",
+    "unit": "piece",
+    "unit_price": 9200.0,
+    "stock": 35
+  },
+  {
+    "sku": "CON-PVC-32MM",
+    "name": "Precision 32mm Heavy Duty PVC Conduit Pipe",
+    "category": "Conduits",
+    "spec": "32mm, Heavy Duty",
+    "unit": "bundle",
+    "unit_price": 1120.0,
+    "stock": 210
+  },
+  {
+    "sku": "CON-GI-25MM",
+    "name": "BEC 25mm Rigid GI Conduit Pipe",
+    "category": "Conduits",
+    "spec": "25mm, Rigid Galvanised Steel",
+    "unit": "piece",
+    "unit_price": 410.0,
+    "stock": 380
+  },
+  {
+    "sku": "CON-FLX-25MM",
+    "name": "Precision 25mm Flexible PVC Conduit",
+    "category": "Conduits",
+    "spec": "25mm, Flexible, ISI Marked",
+    "unit": "bundle",
+    "unit_price": 540.0,
+    "stock": 260
+  },
+  {
+    "sku": "CON-ACC-BEND25",
+    "name": "Precision 25mm PVC Conduit Bend 90 Degree",
+    "category": "Conduits",
+    "spec": "25mm, 90 Degree Bend",
+    "unit": "piece",
+    "unit_price": 18.0,
+    "stock": 2400
+  },
+  {
+    "sku": "FST-ANCH-M8",
+    "name": "Hilti M8 x 75mm Wedge Anchor Bolt",
+    "category": "Fasteners",
+    "spec": "M8 x 75mm, Zinc Plated",
+    "unit": "piece",
+    "unit_price": 42.0,
+    "stock": 5000
+  },
+  {
+    "sku": "FST-CLMP-25",
+    "name": "25mm Mild Steel Saddle Clamp",
+    "category": "Fasteners",
+    "spec": "25mm, MS, Powder Coated",
+    "unit": "piece",
+    "unit_price": 12.0,
+    "stock": 6000
+  },
+  {
+    "sku": "FST-SCR-M6",
+    "name": "6mm x 50mm Stainless Steel Self Drilling Screw",
+    "category": "Fasteners",
+    "spec": "6mm x 50mm, SS304",
+    "unit": "piece",
+    "unit_price": 3.5,
+    "stock": 12000
+  }
+]

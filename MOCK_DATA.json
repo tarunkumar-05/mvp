@@ -1,0 +1,35 @@
+{
+  "catalog": [
+    { "sku": "CAB-CU-4C-06", "name": "Polycab 4C 6 sq.mm Copper Armoured Cable", "category": "Cables", "spec": "4 Core, 6 sq.mm, Copper", "unit": "meter", "unit_price": 285.00, "stock": 1200 },
+    { "sku": "CAB-CU-4C-10", "name": "Polycab 4C 10 sq.mm Copper Armoured Cable", "category": "Cables", "spec": "4 Core, 10 sq.mm, Copper", "unit": "meter", "unit_price": 445.00, "stock": 850 },
+    { "sku": "CAB-CU-4C-16", "name": "Polycab 4C 16 sq.mm Copper Armoured Cable", "category": "Cables", "spec": "4 Core, 16 sq.mm, Copper", "unit": "meter", "unit_price": 680.00, "stock": 500 },
+    { "sku": "CAB-AL-4C-25", "name": "Havells 4C 25 sq.mm Aluminium Armoured Cable", "category": "Cables", "spec": "4 Core, 25 sq.mm, Aluminium", "unit": "meter", "unit_price": 310.00, "stock": 900 },
+    { "sku": "MCB-SP-16A-10K", "name": "Schneider Acti9 16A Single Pole MCB 10kA", "category": "Switchgear", "spec": "1 Pole, 16A, C-Curve", "unit": "piece", "unit_price": 320.00, "stock": 400 },
+    { "sku": "MCB-TP-32A-10K", "name": "Schneider Acti9 32A Triple Pole MCB 10kA", "category": "Switchgear", "spec": "3 Pole, 32A, C-Curve", "unit": "piece", "unit_price": 1420.00, "stock": 150 },
+    { "sku": "MCB-TP-63A-10K", "name": "Schneider Acti9 63A Triple Pole MCB 10kA", "category": "Switchgear", "spec": "3 Pole, 63A, C-Curve", "unit": "piece", "unit_price": 2150.00, "stock": 90 },
+    { "sku": "MCCB-4P-100A", "name": "L&T 100A 4 Pole MCCB 25kA", "category": "Switchgear", "spec": "4 Pole, 100A, 25kA", "unit": "piece", "unit_price": 6800.00, "stock": 45 },
+    { "sku": "MCCB-4P-250A", "name": "L&T 250A 4 Pole MCCB 36kA", "category": "Switchgear", "spec": "4 Pole, 250A, 36kA", "unit": "piece", "unit_price": 14500.00, "stock": 20 },
+    { "sku": "CON-PVC-20MM", "name": "Precision 20mm Heavy Duty PVC Conduit Pipe", "category": "Conduits", "spec": "20mm, Heavy Duty", "unit": "bundle", "unit_price": 620.00, "stock": 500 },
+    { "sku": "CON-PVC-25MM", "name": "Precision 25mm Heavy Duty PVC Conduit Pipe", "category": "Conduits", "spec": "25mm, Heavy Duty", "unit": "bundle", "unit_price": 850.00, "stock": 300 }
+  ],
+  "sample_rfqs": [
+    {
+      "id": "rfq_01",
+      "sender": "purchase@buildcorp.in",
+      "subject": "Urgent quotation required - Site Phase 2",
+      "body": "Hi, Please quote for 250 meters 4 core 6 sqmm copper armoured cable polycab make, and 4 pieces schneider 32A 3 pole breaker. Need delivery by Friday."
+    },
+    {
+      "id": "rfq_02",
+      "sender": "electricals@apexinfra.com",
+      "subject": "Requirement list for sub-station project",
+      "body": "Need urgent price for: 500m 4c 16sqmm cable copper armoured polycab, 2 nos 100A 4 pole mccb L&T make, and 10 nos 63A three pole mcb schneider. Site delivery required."
+    },
+    {
+      "id": "rfq_03",
+      "sender": "contact@srivinayaka.co",
+      "subject": "Pricing inquiry",
+      "body": "Send quotation for 10 bundles 25mm heavy duty pvc conduit pipes and 100m 4 core 10sqmm copper cable."
+    }
+  ]
+}

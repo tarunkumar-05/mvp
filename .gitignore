@@ -1,0 +1,24 @@
+# Local environments and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+
+# Python virtual environments and caches
+backend/venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/*.tsbuildinfo
+
+# Deployment and editor files
+.vercel/
+.DS_Store
+*.log
+*.tmp
