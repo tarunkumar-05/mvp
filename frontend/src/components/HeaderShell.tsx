@@ -1,11 +1,18 @@
 import type { ReactNode } from "react";
 
+/** Where the centre slot becomes visible. Tailwind needs literal class names. */
+const CENTER_VISIBILITY = {
+  md: "hidden md:flex",
+  lg: "hidden lg:flex",
+} as const;
+
 interface HeaderShellProps {
   /** Constrain the inner row to the same width as the page content below it. */
   maxWidth: string;
   left: ReactNode;
-  /** Rendered centred on `md+`. Omit where the page has no in-page anchors. */
+  /** Rendered centred from `centerFrom` up. Omit where the page has no anchors. */
   center?: ReactNode;
+  centerFrom?: keyof typeof CENTER_VISIBILITY;
   right: ReactNode;
 }
 
@@ -20,6 +27,7 @@ export default function HeaderShell({
   maxWidth,
   left,
   center,
+  centerFrom = "md",
   right,
 }: HeaderShellProps) {
   return (
@@ -30,7 +38,9 @@ export default function HeaderShell({
         <div className="flex min-w-0 items-center gap-3">{left}</div>
 
         {center ? (
-          <div className="hidden flex-1 items-center justify-center md:flex">
+          <div
+            className={`flex-1 items-center justify-center ${CENTER_VISIBILITY[centerFrom]}`}
+          >
             {center}
           </div>
         ) : null}

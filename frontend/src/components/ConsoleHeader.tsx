@@ -4,6 +4,7 @@ import { Plus } from "lucide-react";
 
 import BrandLockup from "@/components/BrandLockup";
 import HeaderShell from "@/components/HeaderShell";
+import PrimaryNav from "@/components/PrimaryNav";
 import type { ApiStatus } from "@/lib/types";
 
 interface ConsoleHeaderProps {
@@ -31,8 +32,10 @@ const API_STATUS_DOT: Record<ApiStatus, string> = {
 
 /**
  * Console counterpart to `HeaderBar`. Same shared bar, same brand lockup and
- * badge, same non-pinned scroll behaviour; only the right-hand actions differ
- * (live API pill + simulate) because this page is the workspace, not the pitch.
+ * badge, same section links, same non-pinned scroll behaviour; only the
+ * right-hand actions differ (live API pill + simulate) because this page is the
+ * workspace, not the pitch. The centre links start at `lg` rather than `md`
+ * because the API pill and simulate button need that space at tablet widths.
  */
 export default function ConsoleHeader({
   apiStatus,
@@ -42,6 +45,8 @@ export default function ConsoleHeader({
     <HeaderShell
       maxWidth="max-w-[1600px]"
       left={<BrandLockup />}
+      center={<PrimaryNav />}
+      centerFrom="lg"
       right={
         <>
           <span
